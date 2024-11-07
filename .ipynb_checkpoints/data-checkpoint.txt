@@ -1,0 +1,3 @@
+name,age,sal
+Akhil,21,123456
+Ram,23,123456
